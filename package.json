@@ -1,0 +1,20 @@
+{
+  "name": "mcp-full-tuitorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhajit-Bera/MCP-Full-Tuitorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subhajit-Bera/MCP-Full-Tuitorial/issues"
+  },
+  "homepage": "https://github.com/Subhajit-Bera/MCP-Full-Tuitorial#readme"
+}
